@@ -1,0 +1,11 @@
+pandas
+langchain
+langchain-community
+langchain-core
+openai
+streamlit
+numpy
+httpx
+langchain-openai
+sentence-transformers
+faiss-cpu
